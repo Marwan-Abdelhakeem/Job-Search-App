@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "669789bdd5876c2883421280"
+  },
+  "jobTitle": "Node.js Back-end Developer",
+  "jobLocation": "onsite",
+  "workingTime": "full-time",
+  "seniorityLevel": "Mid-Level",
+  "jobDescription": "We are looking for a Node.js developer responsible for managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, definition, and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end.",
+  "technicalSkills": [
+    "Node.js",
+    "JavaScript",
+    "Express.js",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "softSkills": [
+    "Team worker",
+    "Time management",
+    "Problem-solving"
+  ],
+  "addedBy": {
+    "$oid": "6695d2a921b5b178ee0b34b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T09:07:09.519Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T09:07:09.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669789fdd5876c2883421282"
+  },
+  "jobTitle": "Software Engineer - Machine Learning",
+  "jobLocation": "hybrid",
+  "workingTime": "full-time",
+  "seniorityLevel": "Junior",
+  "jobDescription": "As a Machine Learning Engineer at Google, you will work on innovative projects to build and improve machine learning models and algorithms. You will collaborate with cross-functional teams to deliver scalable solutions.",
+  "technicalSkills": [
+    "Python",
+    "TensorFlow",
+    "Machine Learning",
+    "Data Analysis",
+    "Algorithms"
+  ],
+  "softSkills": [
+    "Analytical thinking",
+    "Collaboration",
+    "Adaptability"
+  ],
+  "addedBy": {
+    "$oid": "6695d2a921b5b178ee0b34b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T09:08:13.213Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T09:08:13.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66978a0fd5876c2883421284"
+  },
+  "jobTitle": "UX Designer",
+  "jobLocation": "onsite",
+  "workingTime": "full-time",
+  "seniorityLevel": "Mid-Level",
+  "jobDescription": "Google is looking for a UX Designer to create user-friendly interfaces and improve the overall user experience of our products. You will work closely with product managers and developers to understand user needs and design innovative solutions.",
+  "technicalSkills": [
+    "Adobe XD",
+    "Sketch",
+    "User Research",
+    "Prototyping",
+    "Interaction Design"
+  ],
+  "softSkills": [
+    "Creativity",
+    "Empathy",
+    "Communication"
+  ],
+  "addedBy": {
+    "$oid": "6695d2a921b5b178ee0b34b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T09:08:31.726Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T09:08:31.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66978a3fd5876c2883421286"
+  },
+  "jobTitle": "Senior Front-end Developer",
+  "jobLocation": "remotely",
+  "workingTime": "part-time",
+  "seniorityLevel": "Senior",
+  "jobDescription": "Amazon is seeking a Senior Front-end Developer to build and maintain innovative web applications. The ideal candidate will have extensive experience in modern JavaScript frameworks, with a focus on React.js, to deliver high-quality, scalable user interfaces.",
+  "technicalSkills": [
+    "JavaScript",
+    "React.js",
+    "HTML5",
+    "CSS3",
+    "Redux"
+  ],
+  "softSkills": [
+    "Attention to detail",
+    "Communication",
+    "Leadership"
+  ],
+  "addedBy": {
+    "$oid": "6695d3d321b5b178ee0b34bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T09:09:19.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T09:09:19.060Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66978a54d5876c2883421288"
+  },
+  "jobTitle": "Data Analyst",
+  "jobLocation": "remotely",
+  "workingTime": "full-time",
+  "seniorityLevel": "Mid-Level",
+  "jobDescription": "Amazon is seeking a Data Analyst to join our team and help drive data-driven decision-making. You will analyze large datasets, generate insights, and provide recommendations to improve business performance.",
+  "technicalSkills": [
+    "SQL",
+    "Excel",
+    "Data Visualization",
+    "Python",
+    "Statistics"
+  ],
+  "softSkills": [
+    "Analytical thinking",
+    "Detail-oriented",
+    "Problem-solving"
+  ],
+  "addedBy": {
+    "$oid": "6695d3d321b5b178ee0b34bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T09:09:40.996Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T09:09:40.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66978a63d5876c288342128a"
+  },
+  "jobTitle": "DevOps Engineer",
+  "jobLocation": "onsite",
+  "workingTime": "part-time",
+  "seniorityLevel": "Senior",
+  "jobDescription": "Amazon is looking for a DevOps Engineer to automate and streamline our operations and processes. You will build and maintain tools for deployment, monitoring, and operations, as well as troubleshoot and resolve issues in our development, test, and production environments.",
+  "technicalSkills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Bash"
+  ],
+  "softSkills": [
+    "Collaboration",
+    "Time management",
+    "Critical thinking"
+  ],
+  "addedBy": {
+    "$oid": "6695d3d321b5b178ee0b34bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T09:09:55.597Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T09:09:55.597Z"
+  }
+}]

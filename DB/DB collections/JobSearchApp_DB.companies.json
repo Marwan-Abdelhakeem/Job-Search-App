@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "669752ab5ef1d88d88089a48"
+  },
+  "companyName": "Google",
+  "description": "Google specializes in internet-related services and products, including online advertising technologies, a search engine, cloud computing, software, and hardware.",
+  "industry": "Technology",
+  "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043, USA",
+  "numberOfEmployees": "10,001+ employees",
+  "companyEmail": "googleElectronics@google.com",
+  "companyHR": {
+    "$oid": "6695d2a921b5b178ee0b34b7"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T05:12:11.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T05:12:11.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6697590f1f3ae8bae61e536d"
+  },
+  "companyName": "Amazon",
+  "description": "Amazon is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+  "industry": "E-commerce",
+  "address": "410 Terry Ave N, Seattle, WA 98109, USA",
+  "numberOfEmployees": "10,001+ employees",
+  "companyEmail": "amazonE-commerce@google.com",
+  "companyHR": {
+    "$oid": "6695d3d321b5b178ee0b34bc"
+  },
+  "createdAt": {
+    "$date": "2024-07-17T05:39:27.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-17T06:19:32.722Z"
+  }
+}]

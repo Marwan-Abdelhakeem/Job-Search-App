@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "6695d2a921b5b178ee0b34b7"
+  },
+  "firstName": "Marwan",
+  "lastName": "Abdelhakeem",
+  "username": "marwanabdelhakeem",
+  "email": "marwan.abdelhakeem.ahmed@gmail.com",
+  "password": "$2b$08$a8nRp8z8.rvIYz5nSS7OmeCbNXifGu0gJOqUsP3XKOGjmC1xQMcsi",
+  "recoveryEmail": "romyo2580@gmail.com",
+  "DOB": {
+    "$date": "1990-05-15T00:00:00.000Z"
+  },
+  "mobileNumber": "01098765432",
+  "role": "Company_HR",
+  "status": "online"
+},
+{
+  "_id": {
+    "$oid": "6695d3d321b5b178ee0b34bc"
+  },
+  "firstName": "Mohamed",
+  "lastName": "Ahmed",
+  "username": "mohamedahmed",
+  "email": "mohamed.ahmed@example.com",
+  "password": "$2b$08$xv5TpWHSsUu7kVQbJQaT.O9NJo4F.cV3526r4o2IU6B9./G6VPmq2",
+  "recoveryEmail": "mohamed.recovery@example.com",
+  "DOB": {
+    "$date": "1985-08-20T00:00:00.000Z"
+  },
+  "mobileNumber": "01123456789",
+  "role": "Company_HR",
+  "status": "online"
+},
+{
+  "_id": {
+    "$oid": "6695d3f421b5b178ee0b34bf"
+  },
+  "firstName": "Hussein",
+  "lastName": "Hamdy",
+  "username": "husseinhamdy",
+  "email": "hussein.hamdy@example.com",
+  "password": "$2b$08$SEbQZm3gzEDnOFHyqDPHK.sB6NMdi4yt9Kmxlc8YPHBUCaD9xUkGO",
+  "recoveryEmail": "hussein.recovery@example.com",
+  "DOB": {
+    "$date": "1992-03-25T00:00:00.000Z"
+  },
+  "mobileNumber": "+201112223344",
+  "role": "User",
+  "status": "offline"
+},
+{
+  "_id": {
+    "$oid": "6695d40721b5b178ee0b34c2"
+  },
+  "firstName": "Ahmed",
+  "lastName": "Ali",
+  "username": "ahmedali",
+  "email": "ahmed.ali@example.com",
+  "password": "$2b$08$IN0mj7uMMsnGk1gXKubmpurlYAcN436DAgH9imFBgfIG38Nat2TfO",
+  "recoveryEmail": "recovery@example.com",
+  "DOB": {
+    "$date": "1980-11-10T00:00:00.000Z"
+  },
+  "mobileNumber": "+201234567890",
+  "role": "User",
+  "status": "offline"
+},
+{
+  "_id": {
+    "$oid": "6695d43621b5b178ee0b34c5"
+  },
+  "firstName": "Maged",
+  "lastName": "Almasry",
+  "username": "magedalmasry",
+  "email": "maged.almasry@example.com",
+  "password": "$2b$08$ElqLuzkNetX0v33wotqURuWf1/F1soIeVzHuWmEx1JEonrepMoUWe",
+  "recoveryEmail": "maged.recovery@example.com",
+  "DOB": {
+    "$date": "1998-07-05T00:00:00.000Z"
+  },
+  "mobileNumber": "01234567890",
+  "role": "User",
+  "status": "offline"
+},
+{
+  "_id": {
+    "$oid": "6696b0da0604f8832a4ff43d"
+  },
+  "firstName": "Magdy",
+  "lastName": "Gamal",
+  "username": "magdygamal",
+  "email": "magdy@example.com",
+  "password": "$2b$08$WVzCz.MyjFBdGwozVp.Y3OWEYv0hIH7mthNVGip6/ez6Ot243wzom",
+  "recoveryEmail": "recovery@example.com",
+  "DOB": {
+    "$date": "1998-07-05T00:00:00.000Z"
+  },
+  "mobileNumber": "01070567890",
+  "role": "User",
+  "status": "online"
+},
+{
+  "_id": {
+    "$oid": "669972fd793b60c80f4aba0d"
+  },
+  "firstName": "Hassan",
+  "lastName": "Saed",
+  "username": "hassansaed",
+  "email": "hassan@example.com",
+  "password": "$2b$10$InasQUKuKT.ft1EurAQ5CesFe2CNLNHzlBg2jMBj9sX57AypNCUce",
+  "recoveryEmail": "magdy.recovery@example.com",
+  "DOB": {
+    "$date": "1998-07-05T00:00:00.000Z"
+  },
+  "mobileNumber": "01040567890",
+  "role": "User",
+  "status": "online"
+}]

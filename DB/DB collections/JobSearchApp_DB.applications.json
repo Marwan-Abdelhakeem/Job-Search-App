@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "669969169f261ee57d7bf7b1"
+  },
+  "jobId": {
+    "$oid": "669789bdd5876c2883421280"
+  },
+  "userId": {
+    "$oid": "6696b0da0604f8832a4ff43d"
+  },
+  "userTechSkills": [
+    "Node.js",
+    "JavaScript",
+    "Express.js",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "userSoftSkills": [
+    "Team worker",
+    "Problem-solving"
+  ],
+  "userResume": "https://res.cloudinary.com/dxyhgxd3j/image/upload/v1721329942/ia7d1rrqqyjozjp8hi6z.pdf",
+  "createdAt": {
+    "$date": "2024-07-18T19:12:22.791Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T19:12:22.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "669969259f261ee57d7bf7b4"
+  },
+  "jobId": {
+    "$oid": "669789bdd5876c2883421280"
+  },
+  "userId": {
+    "$oid": "6696b0da0604f8832a4ff43d"
+  },
+  "userTechSkills": [
+    "Node.js",
+    "JavaScript",
+    "Express.js",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "userSoftSkills": [
+    "Team worker",
+    "Problem-solving"
+  ],
+  "userResume": "https://res.cloudinary.com/dxyhgxd3j/image/upload/v1721329956/elimnc3g1jgtkh24tz7t.pdf",
+  "createdAt": {
+    "$date": "2024-07-18T19:12:37.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-18T19:12:37.295Z"
+  }
+}]
